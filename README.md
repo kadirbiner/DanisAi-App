@@ -17,6 +17,11 @@ Projeyi canlı olarak görmek için:
 
 ## 🛠️ Kurulum
 
+güvenlik nedeniyle .env dosyası eklenmemiştir lütfen projeyi çalıştırmak için .env dosyasını ekleyiniz.
+VITE_GEMINI_KEY_ONERI
+VITE_GEMINI_KEY_ANALIZ
+kısımlarına kendi Api keylerinizi ekleyiniz.
+
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
