@@ -1,12 +1,27 @@
-# React + Vite
+# DanışAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DanışAI, yapay zeka destekli ürün öneri platformudur. Kullanıcının verdiği kısa bilgilere ve sorulara göre kişiselleştirilmiş ürün önerileri sunar. Bu proje, bir e-ticaret odaklı hackathon kapsamında geliştirilmiştir.
 
-Currently, two official plugins are available:
+## 🔍 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔗 Gemini API ile doğal dil işleme
+- 🛍️ Kişiselleştirilmiş ürün önerileri
+- ⚛️ React tabanlı modern arayüz
+- ☁️ CodeSandbox üzerinden canlı demo
 
-## Expanding the ESLint configuration
+## 🚀 Canlı Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Projeyi canlı olarak görmek için:
+
+🔗 [Canlı Uygulama](https://lqd8k6-5173.csb.app/)
+
+## 🛠️ Kurulum
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+```bash
+git clone https://github.com/kadirbiner/DanisAi-App.git
+cd DanisAi-App
+npm install
+npm run dev
+```
